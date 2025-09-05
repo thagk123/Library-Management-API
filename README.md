@@ -26,7 +26,6 @@ It demonstrates user management, book inventory control, and book rental workflo
 
 ## ⚙️ Technologies Used
 - **Java**  
-- **REST API** (JAX-RS / Spring Boot or similar frameworks)  
 
 ---
 
